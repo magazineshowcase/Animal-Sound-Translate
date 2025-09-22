@@ -1,0 +1,5 @@
+{
+  "name": "Animal Sound Translator",
+  "description": "An AI-powered application that humorously translates human language into the sounds of various animals using the Gemini API.",
+  "requestFramePermissions": []
+}
